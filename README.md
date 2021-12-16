@@ -13,8 +13,11 @@ This project is inspired by **[segmentation_models.pytorch](https://github.com/q
 
 ### 🌱 How to use <a name="use"></a>
 
-Please refer to local_test.py temporarily.
+For train
 
+### :truck: Results <a name="results"></a>
+
+![](resources/foo.png)
 
 ### 🔭 Models <a name="models"></a>
 
@@ -45,10 +48,6 @@ Please refer to local_test.py temporarily.
 ### :truck: Dataset <a name="dataset"></a>
 
 - [x] [LEVIR-CD](https://justchenhao.github.io/LEVIR/)
-
-### :truck: Results <a name="results"></a>
-
-![](resources/foo.png)
 
 ### :page_with_curl: Citing <a name="citing"></a>
 
