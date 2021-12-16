@@ -60,8 +60,6 @@ Please refer to local_test.py temporarily.
 }
 ```
 
-
-
 ### :books: Reference <a name="reference"></a>
 
 - [qubvel/segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch)
@@ -70,11 +68,3 @@ Please refer to local_test.py temporarily.
 - [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
 - [likyoo/change_detection.pytorch](https://github.com/likyoo/change_detection.pytorch)
 
-
-
-### :mailbox: Contact<a name="contact"></a>
-
-⚡⚡⚡ I am trying to build this project, if you are interested, don't hesitate to join us! 
-
-👯👯👯 Contact me at likyoo@sdust.edu.cn or pull a request directly or join our WeChat group.
-<div align=center><img src="resources/wechat.jpg" alt="wechat group" width="38%" height="38%"  style="zoom:80%;" /></div>
