@@ -6,7 +6,7 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/likyoo/change_detection.pytorch/main/resources/model%20architecture.png" alt="model architecture" style="zoom:80%;" />
+![](resources/model architecture.png)
 
 
 This project is inspired by **[segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch)** and built based on it. 😄
@@ -48,7 +48,7 @@ Please refer to local_test.py temporarily.
 
 ### :truck: Results <a name="results"></a>
 
-<img src="https://raw.githubusercontent.com/Lynchez/Change-Detection-with-Pytorch/master/resources/foo.png" alt="Results" style="zoom:80%;" />
+![](resources/foo.png)
 
 ### :page_with_curl: Citing <a name="citing"></a>
 
