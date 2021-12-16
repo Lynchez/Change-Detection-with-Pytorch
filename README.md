@@ -48,7 +48,7 @@ Please refer to local_test.py temporarily.
 
 ### :truck: Results <a name="results"></a>
 
-<img src="https://raw.githubusercontent.com/Lynchez/Change-Detection-with-Pytorch/blob/master/resources/foo.png" alt="Results" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/Lynchez/Change-Detection-with-Pytorch/master/resources/foo.png" alt="Results" style="zoom:80%;" />
 
 ### :page_with_curl: Citing <a name="citing"></a>
 
