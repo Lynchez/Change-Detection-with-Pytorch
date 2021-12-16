@@ -6,7 +6,7 @@
 </p>
 
 
-![](resources/model architecture.png)
+![](resources/model.png)
 
 
 This project is inspired by **[segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch)** and built based on it. 😄
