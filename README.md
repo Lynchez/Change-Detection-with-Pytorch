@@ -19,32 +19,6 @@ For train
 
 ![](resources/foo.png)
 
-### 🔭 Models <a name="models"></a>
-
-#### Architectures <a name="architectures"></a>
-- [x] Unet [[paper](https://arxiv.org/abs/1505.04597)]
-
-- [x] Unet++ [[paper](https://arxiv.org/pdf/1807.10165.pdf)]
-
-- [x] MAnet [[paper](https://ieeexplore.ieee.org/abstract/document/9201310)]
-
-- [x] Linknet [[paper](https://arxiv.org/abs/1707.03718)]
-
-- [x] FPN [[paper](http://presentations.cocodataset.org/COCO17-Stuff-FAIR.pdf)]
-
-- [x] PSPNet [[paper](https://arxiv.org/abs/1612.01105)]
-
-- [x] PAN [[paper](https://arxiv.org/abs/1805.10180)]
-
-- [x] DeepLabV3 [[paper](https://arxiv.org/abs/1706.05587)]
-
-- [x] DeepLabV3+ [[paper](https://arxiv.org/abs/1802.02611)]
-
-- [x] UPerNet [[paper](https://arxiv.org/abs/1807.10221)]
-
-- [x] STANet [[paper](https://www.mdpi.com/2072-4292/12/10/1662)]
-
-
 ### :truck: Dataset <a name="dataset"></a>
 
 - [x] [LEVIR-CD](https://justchenhao.github.io/LEVIR/)
